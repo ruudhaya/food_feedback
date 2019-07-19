@@ -55,7 +55,7 @@ class _FoodListState extends State<FoodList> {
     );
   }
 
-  List<FoodItem> _loadFoodItems() {
+  void _loadFoodItems() {
     print('Loading food items');
     FoodItemService.getAllFoodItems()
         .then((foodItem){
