@@ -1,0 +1,13 @@
+fileignoreconfig:
+- filename: .metadata
+  checksum: 2db0e9c8b226e19f4689a0295396ca5bab74bb1b8576d147e1f069fb7df56324
+  ignore_detectors: []
+- filename: ios/Runner.xcodeproj/project.pbxproj
+  checksum: 04dd1b723684c918f58adee506be699fdf9d2cde954f255a97d0371b10fac025
+  ignore_detectors: []
+- filename: ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+  checksum: 493ace34b973ee9428f95e8e34fb9356bebef9c367eb6ea2064dc01e3c69b977
+  ignore_detectors: []
+- filename: lib/common/constants.dart
+  checksum: 7a999f247634a625293ae19a14ab0d5fb29eabf916ee6376e6bac1a6becadea0
+  ignore_detectors: []
